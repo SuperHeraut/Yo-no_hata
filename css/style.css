@@ -20,7 +20,7 @@ nav {
 	display: flex;
 	justify-content: space-between;
 	align-items: end;
-	background: linear-gradient(180deg, #ff8080a0 0%, #ffe08080 25%, #80a0ff60 50%, #ffffff40 75%, #00000000 100%);
+	background: linear-gradient(180deg, #ff8080a0 0%, #00000000 100%);
 	box-sizing: border-box;
 	position: fixed;
 	top: 0;
