@@ -46,7 +46,7 @@ homepage.setAttribute("href", "../master/homepage.html");
 homepage.setAttribute("id", "homepage");
 NAVBAR.appendChild(homepage);
 icon = document.createElement("img");
-icon.setAttribute("src","../gazou/hata/icon.svg");
+icon.setAttribute("src","../gwazau/hata/icon.svg");
 homepage.appendChild(icon);
 
 // navbar menu
@@ -81,7 +81,7 @@ menuNatFlags.appendChild(subMenuNatFlags);
 
 	itemNatFlags2link = document.createElement("a");
 	itemNatFlags2link.setAttribute("href", "../master/tairiku.html");
-	itemNatFlags2link.innerHTML = "duc&egrave;&ubreve;";
+	itemNatFlags2link.innerHTML = "大陸";
 	itemNatFlags2.appendChild(itemNatFlags2link);
 
 // submenu 2

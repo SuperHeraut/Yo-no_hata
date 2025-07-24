@@ -7,7 +7,7 @@ STYLE.setAttribute("rel", "stylesheet");
 STYLE.setAttribute("href", "../css/style.css");
 FAVICON.setAttribute("rel", "icon");
 FAVICON.setAttribute("type","image/x-icon");
-FAVICON.setAttribute("href","../img/technical/favicon.svg");
+FAVICON.setAttribute("href","../gwazau/technical/favicon.svg");
 
 HEAD.appendChild(CHARSET);
 HEAD.appendChild(VP);
